@@ -4,7 +4,7 @@
   "description": "",
   "main": "broker.js",
   "scripts": {
-    "start": "nodemon broker.js --ignore client/* --ignore sensorExample/*",
+    "start": "node broker.js --ignore client/* --ignore sensorExample/*",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
