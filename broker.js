@@ -1,17 +1,18 @@
 const aedes = require("aedes")();
 const httpServer = require("http").createServer();
 const ws = require("websocket-stream");
-const clientRoute = require("./routes/clientRoute");
 const scooter = require("./schema/elscooter");
-
 const { default: mongoose } = require("mongoose");
+
+// Establishing connection to MongoDB
 mongoose
   .connect(
     "mongodb+srv://cloudtech2:cloudtech22@idg2001cloudtech2.zeihw.mongodb.net/idg2001cloudtech2?retryWrites=true&w=majority"
   )
   .catch((error) => handleError(error));
 
-  ws.createServer({ server: httpServer }, aedes.handle);
+// Creating HTTP server
+ws.createServer({ server: httpServer }, aedes.handle);
 const port = process.env.PORT || 80;
 
 httpServer.listen(port, function () {
@@ -19,7 +20,6 @@ httpServer.listen(port, function () {
 });
 
 // Authentication-source: https://shrey-misra.medium.com/customizing-your-own-mqtt-broker-with-node-js-4bc8212a1739
-
 // Authenticate the connecting client
 aedes.authenticate = (client, username, password, callback) => {
   password = Buffer.from(password, "base64").toString();
@@ -82,7 +82,7 @@ aedes.on("unsubscribe", function (subscriptions, client) {
   );
 });
 
-// fires when a message is published
+// Fires when a message is published
 aedes.on("publish", async function (packet, client) {
   if (client) {
     console.log(
@@ -96,6 +96,7 @@ aedes.on("publish", async function (packet, client) {
     );
     let jsonData = JSON.parse(packet.payload.toString());
 
+    // Uploading the data received from client to MongoDB
     await scooter.create(jsonData, function (error, result) {
       if (error != null) {
         console.log("ERROR: " + error);
