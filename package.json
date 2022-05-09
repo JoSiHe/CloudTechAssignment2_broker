@@ -1,0 +1,33 @@
+{
+  "name": "cloudtechassignment2_heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "broker.js",
+  "scripts": {
+    "start": "nodemon broker.js --ignore client/* --ignore sensorExample/*",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoSiHe/CloudTechAssignment2_Heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoSiHe/CloudTechAssignment2_Heroku/issues"
+  },
+  "homepage": "https://github.com/JoSiHe/CloudTechAssignment2_Heroku#readme",
+  "dependencies": {
+    "aedes": "^0.46.3",
+    "cbor": "^8.1.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.0",
+    "express-xml-bodyparser": "^0.3.0",
+    "http": "^0.0.1-security",
+    "mongoose": "^6.3.1",
+    "mqtt": "^4.3.7",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2",
+    "websocket-stream": "^5.5.2"
+  }
+}

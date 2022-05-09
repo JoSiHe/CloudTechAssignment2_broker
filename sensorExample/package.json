@@ -1,0 +1,14 @@
+{
+  "name": "sensorexample",
+  "version": "1.0.0",
+  "description": "These .js-files contain example-datasets that is sent from our sensors.\r CD to this folder and run \"npm sensor1\", \"npm sensor2\", \"npm sensor3\" or \"npm all\" in your terminal to send randomly generated data to the MQTT-broker.",
+  "main": "index.js",
+  "scripts": {
+    "sensor1": "node sensor1.js",
+    "sensor2": "node sensor2.js",
+    "sensor3": "node sensor3.js",
+    "all": "node allScooters.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,72 @@
+[
+    {
+        "scooter_id": 1,
+        "kilometers_driven": 14.1,
+        "battery_percentage": 43,
+        "trip_date": "2022-05-09T00:00:00Z",
+        "fastest_trip_speed": 17
+    },
+    {
+        "scooter_id": 2,
+        "kilometers_driven": 7.5,
+        "battery_percentage": 12,
+        "trip_date": "2022-05-09T00:00:00Z",
+        "fastest_trip_speed": 17
+    },
+    {
+        "scooter_id": 3,
+        "kilometers_driven": 10.4,
+        "battery_percentage": 32,
+        "trip_date": "2022-05-09T00:00:00Z",
+        "fastest_trip_speed": 12
+    },
+    {
+        "scooter_id": 4,
+        "kilometers_driven": 18.4,
+        "battery_percentage": 39,
+        "trip_date": "2022-05-09T00:00:00Z",
+        "fastest_trip_speed": 20
+    },
+    {
+        "scooter_id": 5,
+        "kilometers_driven": 7.5,
+        "battery_percentage": 16,
+        "trip_date": "2022-05-09T00:00:00Z",
+        "fastest_trip_speed": 17
+    },
+    {
+        "scooter_id": 6,
+        "kilometers_driven": 17.0,
+        "battery_percentage": 22,
+        "trip_date": "2022-05-09T00:00:00Z",
+        "fastest_trip_speed": 11
+    },
+    {
+        "scooter_id": 7,
+        "kilometers_driven": 11.8,
+        "battery_percentage": 43,
+        "trip_date": "2022-05-09T00:00:00Z",
+        "fastest_trip_speed": 12
+    },
+    {
+        "scooter_id": 8,
+        "kilometers_driven": 10.7,
+        "battery_percentage": 34,
+        "trip_date": "2022-05-09T00:00:00Z",
+        "fastest_trip_speed": 20
+    },
+    {
+        "scooter_id": 9,
+        "kilometers_driven": 17.1,
+        "battery_percentage": 3,
+        "trip_date": "2022-05-09T00:00:00Z",
+        "fastest_trip_speed": 18
+    },
+    {
+        "scooter_id": 10,
+        "kilometers_driven": 5.9,
+        "battery_percentage": 5,
+        "trip_date": "2022-05-09T00:00:00Z",
+        "fastest_trip_speed": 19
+    }
+]
