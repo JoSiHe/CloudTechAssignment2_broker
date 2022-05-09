@@ -1,0 +1,452 @@
+[
+ {
+   "_id": "6277ba90942ed07c061c30e3",
+   "averageSpeed": 5,
+   "batteryEnd": 29,
+   "dateRegistered": "2022-05-09T22:00:00.000Z",
+   "distance": 23094,
+   "sensorID": 6,
+   "useTime": 5497
+ },
+ {
+   "_id": "6277ba90942ed07c061c30e2",
+   "averageSpeed": 20,
+   "batteryEnd": 14,
+   "dateRegistered": "2022-05-08T22:00:00.000Z",
+   "distance": 40795,
+   "sensorID": 6,
+   "useTime": 10742
+ },
+ {
+   "_id": "6277ba90942ed07c061c30e4",
+   "averageSpeed": 18,
+   "batteryEnd": 26,
+   "dateRegistered": "2022-05-10T22:00:00.000Z",
+   "distance": 98225,
+   "sensorID": 6,
+   "useTime": 7507
+ },
+ {
+   "_id": "6277ba90942ed07c061c30e5",
+   "averageSpeed": 19,
+   "batteryEnd": 26,
+   "dateRegistered": "2022-05-11T22:00:00.000Z",
+   "distance": 48619,
+   "sensorID": 6,
+   "useTime": 3294
+ },
+ {
+   "_id": "6277ba90942ed07c061c30e6",
+   "averageSpeed": 19,
+   "batteryEnd": 17,
+   "dateRegistered": "2022-05-12T22:00:00.000Z",
+   "distance": 1782,
+   "sensorID": 6,
+   "useTime": 4666
+ },
+ {
+   "_id": "6277ba90942ed07c061c30ef",
+   "averageSpeed": 15,
+   "batteryEnd": 93,
+   "dateRegistered": "2022-05-11T22:00:00.000Z",
+   "distance": 29456,
+   "sensorID": 7,
+   "useTime": 3695
+ },
+ {
+   "_id": "6277ba90942ed07c061c30ee",
+   "averageSpeed": 15,
+   "batteryEnd": 29,
+   "dateRegistered": "2022-05-10T22:00:00.000Z",
+   "distance": 73875,
+   "sensorID": 7,
+   "useTime": 10505
+ },
+ {
+   "_id": "6277ba90942ed07c061c30f6",
+   "averageSpeed": 17,
+   "batteryEnd": 22,
+   "dateRegistered": "2022-05-08T22:00:00.000Z",
+   "distance": 68801,
+   "sensorID": 8,
+   "useTime": 3091
+ },
+ {
+   "_id": "6277ba90942ed07c061c30ed",
+   "averageSpeed": 10,
+   "batteryEnd": 51,
+   "dateRegistered": "2022-05-09T22:00:00.000Z",
+   "distance": 45805,
+   "sensorID": 7,
+   "useTime": 10619
+ },
+ {
+   "_id": "6277ba90942ed07c061c30f0",
+   "averageSpeed": 12,
+   "batteryEnd": 91,
+   "dateRegistered": "2022-05-12T22:00:00.000Z",
+   "distance": 72316,
+   "sensorID": 7,
+   "useTime": 6020
+ },
+ {
+   "_id": "6277ba90942ed07c061c30ec",
+   "averageSpeed": 11,
+   "batteryEnd": 97,
+   "dateRegistered": "2022-05-08T22:00:00.000Z",
+   "distance": 27468,
+   "sensorID": 7,
+   "useTime": 15684
+ },
+ {
+   "_id": "6277ba90942ed07c061c30f9",
+   "averageSpeed": 16,
+   "batteryEnd": 4,
+   "dateRegistered": "2022-05-11T22:00:00.000Z",
+   "distance": 18801,
+   "sensorID": 8,
+   "useTime": 10111
+ },
+ {
+   "_id": "6277ba90942ed07c061c30f8",
+   "averageSpeed": 4,
+   "batteryEnd": 73,
+   "dateRegistered": "2022-05-10T22:00:00.000Z",
+   "distance": 73481,
+   "sensorID": 8,
+   "useTime": 2018
+ },
+ {
+   "_id": "6277ba90942ed07c061c30fa",
+   "averageSpeed": 5,
+   "batteryEnd": 53,
+   "dateRegistered": "2022-05-12T22:00:00.000Z",
+   "distance": 4003,
+   "sensorID": 8,
+   "useTime": 16096
+ },
+ {
+   "_id": "6277ba90942ed07c061c3101",
+   "averageSpeed": 16,
+   "batteryEnd": 89,
+   "dateRegistered": "2022-05-09T22:00:00.000Z",
+   "distance": 39518,
+   "sensorID": 10,
+   "useTime": 5465
+ },
+ {
+   "_id": "6277ba90942ed07c061c3100",
+   "averageSpeed": 8,
+   "batteryEnd": 26,
+   "dateRegistered": "2022-05-08T22:00:00.000Z",
+   "distance": 37591,
+   "sensorID": 10,
+   "useTime": 9205
+ },
+ {
+   "_id": "6277ba90942ed07c061c3102",
+   "averageSpeed": 13,
+   "batteryEnd": 100,
+   "dateRegistered": "2022-05-10T22:00:00.000Z",
+   "distance": 69412,
+   "sensorID": 10,
+   "useTime": 6269
+ },
+ {
+   "_id": "6277ba90942ed07c061c30f7",
+   "averageSpeed": 1,
+   "batteryEnd": 4,
+   "dateRegistered": "2022-05-09T22:00:00.000Z",
+   "distance": 88482,
+   "sensorID": 8,
+   "useTime": 11171
+ },
+ {
+   "_id": "6277ba90942ed07c061c310e",
+   "averageSpeed": 18,
+   "batteryEnd": 1,
+   "dateRegistered": "2022-05-12T22:00:00.000Z",
+   "distance": 99067,
+   "sensorID": 1,
+   "useTime": 8141
+ },
+ {
+   "_id": "6277ba90942ed07c061c310a",
+   "averageSpeed": 20,
+   "batteryEnd": 9,
+   "dateRegistered": "2022-05-08T22:00:00.000Z",
+   "distance": 24169,
+   "sensorID": 1,
+   "useTime": 2276
+ },
+ {
+   "_id": "6277ba90942ed07c061c3104",
+   "averageSpeed": 14,
+   "batteryEnd": 45,
+   "dateRegistered": "2022-05-12T22:00:00.000Z",
+   "distance": 51303,
+   "sensorID": 10,
+   "useTime": 10972
+ },
+ {
+   "_id": "6277ba90942ed07c061c310d",
+   "averageSpeed": 3,
+   "batteryEnd": 47,
+   "dateRegistered": "2022-05-11T22:00:00.000Z",
+   "distance": 23909,
+   "sensorID": 1,
+   "useTime": 14261
+ },
+ {
+   "_id": "6277ba90942ed07c061c310c",
+   "averageSpeed": 15,
+   "batteryEnd": 17,
+   "dateRegistered": "2022-05-10T22:00:00.000Z",
+   "distance": 4148,
+   "sensorID": 1,
+   "useTime": 1302
+ },
+ {
+   "_id": "6277ba90942ed07c061c310b",
+   "averageSpeed": 18,
+   "batteryEnd": 41,
+   "dateRegistered": "2022-05-09T22:00:00.000Z",
+   "distance": 74033,
+   "sensorID": 1,
+   "useTime": 5169
+ },
+ {
+   "_id": "6277ba90942ed07c061c3114",
+   "averageSpeed": 4,
+   "batteryEnd": 72,
+   "dateRegistered": "2022-05-08T22:00:00.000Z",
+   "distance": 53216,
+   "sensorID": 9,
+   "useTime": 14447
+ },
+ {
+   "_id": "6277ba90942ed07c061c3103",
+   "averageSpeed": 15,
+   "batteryEnd": 100,
+   "dateRegistered": "2022-05-11T22:00:00.000Z",
+   "distance": 36660,
+   "sensorID": 10,
+   "useTime": 13076
+ },
+ {
+   "_id": "6277ba90942ed07c061c3120",
+   "averageSpeed": 19,
+   "batteryEnd": 52,
+   "dateRegistered": "2022-05-10T22:00:00.000Z",
+   "distance": 6170,
+   "sensorID": 2,
+   "useTime": 438
+ },
+ {
+   "_id": "6277ba90942ed07c061c3118",
+   "averageSpeed": 18,
+   "batteryEnd": 99,
+   "dateRegistered": "2022-05-12T22:00:00.000Z",
+   "distance": 49774,
+   "sensorID": 9,
+   "useTime": 4529
+ },
+ {
+   "_id": "6277ba90942ed07c061c3121",
+   "averageSpeed": 11,
+   "batteryEnd": 95,
+   "dateRegistered": "2022-05-11T22:00:00.000Z",
+   "distance": 46975,
+   "sensorID": 2,
+   "useTime": 10663
+ },
+ {
+   "_id": "6277ba90942ed07c061c3116",
+   "averageSpeed": 2,
+   "batteryEnd": 56,
+   "dateRegistered": "2022-05-10T22:00:00.000Z",
+   "distance": 6424,
+   "sensorID": 9,
+   "useTime": 7243
+ },
+ {
+   "_id": "6277ba90942ed07c061c311f",
+   "averageSpeed": 18,
+   "batteryEnd": 100,
+   "dateRegistered": "2022-05-09T22:00:00.000Z",
+   "distance": 96728,
+   "sensorID": 2,
+   "useTime": 16058
+ },
+ {
+   "_id": "6277ba90942ed07c061c3122",
+   "averageSpeed": 5,
+   "batteryEnd": 45,
+   "dateRegistered": "2022-05-12T22:00:00.000Z",
+   "distance": 4682,
+   "sensorID": 2,
+   "useTime": 8378
+ },
+ {
+   "_id": "6277ba90942ed07c061c311e",
+   "averageSpeed": 19,
+   "batteryEnd": 30,
+   "dateRegistered": "2022-05-08T22:00:00.000Z",
+   "distance": 62051,
+   "sensorID": 2,
+   "useTime": 3665
+ },
+ {
+   "_id": "6277ba90942ed07c061c3117",
+   "averageSpeed": 13,
+   "batteryEnd": 12,
+   "dateRegistered": "2022-05-11T22:00:00.000Z",
+   "distance": 96034,
+   "sensorID": 9,
+   "useTime": 14858
+ },
+ {
+   "_id": "6277ba90942ed07c061c3115",
+   "averageSpeed": 12,
+   "batteryEnd": 61,
+   "dateRegistered": "2022-05-09T22:00:00.000Z",
+   "distance": 80717,
+   "sensorID": 9,
+   "useTime": 17088
+ },
+ {
+   "_id": "6277ba90942ed07c061c3129",
+   "averageSpeed": 20,
+   "batteryEnd": 80,
+   "dateRegistered": "2022-05-09T22:00:00.000Z",
+   "distance": 12276,
+   "sensorID": 4,
+   "useTime": 8798
+ },
+ {
+   "_id": "6277ba90942ed07c061c312a",
+   "averageSpeed": 12,
+   "batteryEnd": 2,
+   "dateRegistered": "2022-05-10T22:00:00.000Z",
+   "distance": 11690,
+   "sensorID": 4,
+   "useTime": 14533
+ },
+ {
+   "_id": "6277ba90942ed07c061c312b",
+   "averageSpeed": 4,
+   "batteryEnd": 100,
+   "dateRegistered": "2022-05-11T22:00:00.000Z",
+   "distance": 88502,
+   "sensorID": 4,
+   "useTime": 8671
+ },
+ {
+   "_id": "6277ba90942ed07c061c312c",
+   "averageSpeed": 2,
+   "batteryEnd": 63,
+   "dateRegistered": "2022-05-12T22:00:00.000Z",
+   "distance": 18753,
+   "sensorID": 4,
+   "useTime": 3147
+ },
+ {
+   "_id": "6277ba90942ed07c061c3136",
+   "averageSpeed": 19,
+   "batteryEnd": 75,
+   "dateRegistered": "2022-05-12T22:00:00.000Z",
+   "distance": 71555,
+   "sensorID": 3,
+   "useTime": 6855
+ },
+ {
+   "_id": "6277ba90942ed07c061c3132",
+   "averageSpeed": 13,
+   "batteryEnd": 70,
+   "dateRegistered": "2022-05-08T22:00:00.000Z",
+   "distance": 3701,
+   "sensorID": 3,
+   "useTime": 12881
+ },
+ {
+   "_id": "6277ba90942ed07c061c3133",
+   "averageSpeed": 12,
+   "batteryEnd": 81,
+   "dateRegistered": "2022-05-09T22:00:00.000Z",
+   "distance": 5086,
+   "sensorID": 3,
+   "useTime": 12562
+ },
+ {
+   "_id": "6277ba90942ed07c061c3134",
+   "averageSpeed": 4,
+   "batteryEnd": 35,
+   "dateRegistered": "2022-05-10T22:00:00.000Z",
+   "distance": 89208,
+   "sensorID": 3,
+   "useTime": 3247
+ },
+ {
+   "_id": "6277ba90942ed07c061c3135",
+   "averageSpeed": 12,
+   "batteryEnd": 53,
+   "dateRegistered": "2022-05-11T22:00:00.000Z",
+   "distance": 65658,
+   "sensorID": 3,
+   "useTime": 1835
+ },
+ {
+   "_id": "6277ba90942ed07c061c3128",
+   "averageSpeed": 12,
+   "batteryEnd": 96,
+   "dateRegistered": "2022-05-08T22:00:00.000Z",
+   "distance": 19436,
+   "sensorID": 4,
+   "useTime": 10748
+ },
+ {
+   "_id": "6277ba90942ed07c061c313f",
+   "averageSpeed": 20,
+   "batteryEnd": 14,
+   "dateRegistered": "2022-05-11T22:00:00.000Z",
+   "distance": 1063,
+   "sensorID": 5,
+   "useTime": 16208
+ },
+ {
+   "_id": "6277ba90942ed07c061c3140",
+   "averageSpeed": 15,
+   "batteryEnd": 70,
+   "dateRegistered": "2022-05-12T22:00:00.000Z",
+   "distance": 45586,
+   "sensorID": 5,
+   "useTime": 314
+ },
+ {
+   "_id": "6277ba90942ed07c061c313d",
+   "averageSpeed": 7,
+   "batteryEnd": 19,
+   "dateRegistered": "2022-05-09T22:00:00.000Z",
+   "distance": 15988,
+   "sensorID": 5,
+   "useTime": 860
+ },
+ {
+   "_id": "6277ba90942ed07c061c313e",
+   "averageSpeed": 5,
+   "batteryEnd": 87,
+   "dateRegistered": "2022-05-10T22:00:00.000Z",
+   "distance": 90073,
+   "sensorID": 5,
+   "useTime": 1284
+ },
+ {
+   "_id": "6277ba90942ed07c061c313c",
+   "averageSpeed": 15,
+   "batteryEnd": 62,
+   "dateRegistered": "2022-05-08T22:00:00.000Z",
+   "distance": 86795,
+   "sensorID": 5,
+   "useTime": 5850
+ }
+]
